@@ -2,8 +2,6 @@
 
 # Hi there, I'm Nickopusan!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
-
 ### 🚀 Python Developer | Full-Stack Web Developer | Data Engineering Enthusiast
 
 <br/>
@@ -12,24 +10,24 @@
 
 <br/>
 
-<a href="https://nickopusan-portofolio.vercel.app/" target="_blank">
+<a href="https://www.nickopusan.dev" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio" height="32"/>
 </a>
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/nickopusan13" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
 </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"/>
+<a href="https://www.upwork.com/freelancers/nickopusan" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" height="32"/>
 </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="32"/>
+<a href="https://discord.com/users/nickpusan" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="32"/>
 </a>
 
 <br/>
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickopusan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" height="165"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nickopusan&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
