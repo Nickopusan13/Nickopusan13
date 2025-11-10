@@ -26,8 +26,6 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickopusan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" height="165"/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=nickopusan&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
